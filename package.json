@@ -1,0 +1,23 @@
+{
+  "name": "petshop-tutorial",
+  "version": "0.0.1",
+  "description": "Create and run a pet shop in a decentralized application",
+  "main": "index.js",
+  "private": true,
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gforien/petshop-tutorial.git"
+  },
+  "author": "Gabriel Forien",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/gforien/petshop-tutorial/issues"
+  },
+  "homepage": "https://github.com/gforien/petshop-tutorial#readme"
+}

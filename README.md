@@ -1,19 +1,20 @@
-# template-project :computer::satellite::video_game::globe_with_meridians::package::zap:
+# petshop-tutorial :dog::link::lock:
 
-![](https://img.shields.io/badge/badge-content-blue)
 [![](https://travis-ci.org/gforien/template-repo.svg?branch=master)](https://travis-ci.org/gforien/template-repo)
-![](https://img.shields.io/github/license/gforien/template-repository)
+![](https://img.shields.io/github/license/gforien/petshop-tutorial)
 
 
-#### Here is a simple description of what it does
+#### Create and run a pet shop in a decentralized application running on a blockchain !
 
-<!--- Here are technologies used
 <p style = text-align:center;>
-    <img  src="https://upload.wikimedia.org/wikipedia/fr/3/38/Guitar_Hero_Logo.png" alt="Guitar Hero" height="145" width="199">
-    <img src="https://www.neonmag.fr/content/uploads/2019/04/color-spotify-logo.jpg" alt="Spotify" height="145" width="214">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Osu_new_logo.png" alt="Osu" height="145" width="145">
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" height="150">
+    <img src="https://i.pinimg.com/originals/c3/04/e3/c304e3d17e22ad405b0e30efb6ffc948.png" height="145">
 </p>
 
+<!--- Here are technologies used
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Osu_new_logo.png" alt="Osu" height="145" width="145">
+
+![](https://img.shields.io/badge/badge-content-blue)
 
 Or more simply, a GIF of the app functionning
 
@@ -23,18 +24,18 @@ Or more simply, a GIF of the app functionning
 ## Building and launching :construction_worker:
 ```bash
 $ npm install
-$ npm start
+$ truffle compile
+$ truffle migrate
 ```
 
 ## Features :sparkles:
-- feature 1
-- feature 2
-- feature 3
+- adopt a pet
+- propose a pet for adoption
 
 ## Sources :books:
-This project is sampled from :
-- [Link 1](https://wikipedia.com)
-- [Link 2](https://github.com)
+This project was developed thanks to :
+- [Truffle petshop tutorial](https://www.trufflesuite.com/tutorials/pet-shop)
+- [Ganache quickstart](https://www.trufflesuite.com/docs/ganache/quickstart)
 
 ##
 #### [Gabriel FORIEN](https://github.com/gforien)
