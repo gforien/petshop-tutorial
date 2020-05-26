@@ -4,12 +4,10 @@
   "description": "Create and run a pet shop in a decentralized application",
   "main": "index.js",
   "private": true,
-
   "scripts": {
     "start": "node index.js",
     "test": "exit 1"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gforien/petshop-tutorial.git"
@@ -19,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/gforien/petshop-tutorial/issues"
   },
-  "homepage": "https://github.com/gforien/petshop-tutorial#readme"
+  "homepage": "https://github.com/gforien/petshop-tutorial#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
